@@ -1,6 +1,6 @@
-## LAB10- Class 401JS
+# LAB10- Class 401JS
 
-# Deploy API server
+## Deploy API server
 
 ### Author: Ashley Biermann
 
