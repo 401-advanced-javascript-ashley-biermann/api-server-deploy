@@ -1,6 +1,7 @@
 'use strict';
 
 const error404 = require('../lib/middleware/404');
+const error500 = require('../lib/middleware/500')
 
 const req = { method: 'test', path: 'test' };
 const res = {status: jest.fn().mockImplementation(() => {
