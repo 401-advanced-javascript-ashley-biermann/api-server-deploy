@@ -6,10 +6,12 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-ashley-biermann/api-server-deploy/pull/2)
 - [ci/cd](https://github.com/401-advanced-javascript-ashley-biermann/notes/tree/master/.github/workflows) (GitHub Actions)
-- [back-end server url - not yet deployed](http://xyz.com)
-- [front-end application - not yet implemented](http://xyz.com)
+- [api docs](/docs/swagger.json)
+- [back-end server url - not yet deployed](https://dashboard.heroku.com/apps/biermann-api-server/deploy/github)
+- [front-end application - not yet implemented]()
+- [jsdoc]()
 
 ### Setup
 
