@@ -1,0 +1,27 @@
+{
+  "name": "api-server-deploy",
+  "version": "1.0.0",
+  "description": "# Deploy API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-ashley-biermann/api-server-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-ashley-biermann/api-server-deploy/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-ashley-biermann/api-server-deploy#readme",
+  "dependencies": {
+    "cf-supergoose": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "mongoose": "^5.9.19"
+  }
+}
