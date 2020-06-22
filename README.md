@@ -1,15 +1,17 @@
-## LAB10- Class 401JS
+# LAB10- Class 401JS
 
-# Deploy API server
+## Deploy API server
 
 ### Author: Ashley Biermann
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-ashley-biermann/api-server-deploy/pull/2)
 - [ci/cd](https://github.com/401-advanced-javascript-ashley-biermann/notes/tree/master/.github/workflows) (GitHub Actions)
-- [back-end server url - not yet deployed](http://xyz.com)
-- [front-end application - not yet implemented](http://xyz.com)
+- [back-end server url - net yet implemented]()
+- [front-end application](https://biermann-api-server.herokuapp.com/)
+- [api docs](/docs/swagger.json)
+- [jsdoc](/docs/index.html)
 
 ### Setup
 

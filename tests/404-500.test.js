@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * Error handler tests
+ * @module 404-500
+ */
+
 const error404 = require('../lib/middleware/404');
 const error500 = require('../lib/middleware/500')
 

@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * Tests logger and timestamp
+ * @module logger.test
+ * @module timestamp.test
+ */
 const timeStamp = require('../lib/middleware/timestamp');
 const logger = require('../lib/middleware/logger.js');
 
