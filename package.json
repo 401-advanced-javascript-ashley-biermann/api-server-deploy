@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "repository": {
     "type": "git",
